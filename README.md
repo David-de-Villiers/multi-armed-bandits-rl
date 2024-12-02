@@ -2,7 +2,7 @@
 
 This repository contains the implementation of various action-selection methods to solve the **Multi-Armed Bandit Problem**, a fundamental challenge in reinforcement learning. The code simulates multiple strategies, including Greedy, Epsilon-Greedy, Upper-Confidence-Bound (UCB), Optimistic Initial Values, and Gradient Bandit Algorithms. Performance comparisons are drawn to demonstrate the strengths and weaknesses of each method in terms of average rewards and optimal action selection.
 
-For a detailed explanation of these strategies and the theoretical background, refer to the [accompanying Medium article](https://medium.com/@david-de-villiers/mastering-the-multi-armed-bandit-problem-in-reinforcement-learning-b4206700b779).
+For a detailed explanation of these strategies and the theoretical background, refer to the [accompanying Medium article](https://medium.com/@david-de-villiers/mastering-the-multi-armed-bandit-problem-in-reinforcement-learning-b4206700b779) or the [YouTube Video](https://www.youtube.com/watch?v=bnyA97_J9H0).
 
 ## Overview
 
